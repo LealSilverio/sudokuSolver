@@ -2,7 +2,7 @@
 
 This project is a Sudoku board generator and solver written in Erlang through VSCode. This is a project where I can test and learn the basics of Erlang syntax and its features, such as functional programming, formatting, pattern matching, recursion, and guards. The program generates a random Sudoku board, checks if it's solvable, and solves them if possible using a recursive backtracking algorithm.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/WI0OLveAXmU)
 
 # Development Environment
 
